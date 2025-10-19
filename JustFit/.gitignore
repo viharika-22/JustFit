@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# SQLite
+*.sqlite
+data/
+
+# VSCode
+.vscode/
+
+# Dist
+dist/
+build/
+
+# Misc
+*.log
+coverage/
